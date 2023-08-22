@@ -8,12 +8,16 @@
 - Coordinator - 
 
 ## Name: Mary the Maintainer
+
 ### Role: 
 - Staff Engineer at big tech company
+- 
 ### Background: 
 - Mary writes open source software for a large tech firm. She has had both jobs focused on open source software as well as closed source software. She is responsible for maintaining a popular open source project. Her maintainer status on the project is not tied to her job, but she is paid by her company to work on the project.
+- 
 ### Goals: 
 - Mary has multiple goals tied to herself personally, the project, and her job. For herself, she wants to not end up overloaded with work, and she wants to be seen as a good member of the open source community. For the OSS project she works on she wants it to be successful, popular, and it to be safe for use by the public and her company. For her company she wants to ensure that her work aligns with the goals of the company. She also wants to ensure that both her general open source work in the community as well as specific work on the project reflects well on the company.
+- 
 #### Personal
 - Not to end up overloaded with work
 - Seen as a good member of the open source community
@@ -21,16 +25,20 @@
 - Wants it to be successful, popular and it to be safe for use by the public and her company.
 #### Company
 - Wants to ensure that both her general open source work in the community as well as specific work on the project reflects well on the company.
+- 
 ### Challenges: 
 - It is difficult managing open source and company requirements especially if and when they conflict. Work planning is difficult since Mary deals both with internal company work but also deals with tickets coming from the community on her project. Mary needs to deal with unclear and fuzzy metrics compared to internal commercial work. This makes it more difficult for Mary to provide community adoption data, usage data, security data, etc. to both company stakeholders as well as other contributors and maintainers of the project. Mary is unable to use expensive commercial tools for performing common security tasks on the OSS projects like SCA, fuzzers, etc.
 - It is difficult managing open source and company requirements, especially if and when they conflict.
 - Work planning is difficult since Mary deals both with internal company work but also deals with tickets coming from the community on her projects.
 - Needs to deal with unclear and fuzzy metrics compared to internal commercial work.  This makes it more difficult for Mary to provide community adoption data, usage data, security data, etc. to both company stakeholders as well as other contributors and  maintainers of the project.
 - Unable to use expensive commercial tools for performing common security tasks on the OSS projects like SCA, fuzzers, etc.
+
 ### How the OpenSSF can help: 
 - OpenSSF governance allows the open source project Mary maintains to fall under OpenSSF ownership if it meets OpenSSF scope and governance requirements and is voted on by the community. If it does fall under OpenSSF, it would be provided with support including security audit/review. Even if the project isn’t under OpenSSF, OpenSSF still can help through its portfolio of security projects under its governance. Mary can use projects like Scorecard to help get metrics on the security health of the project. If Mary’s project is considered critical to the safety of the community, it might fall under the work Alpha-Omega is doing. Mary can have the project follow the best practices, frameworks, and standards that come out of OpenSSF like SLSA, and S2C2F to better protect the project she maintains as well as help protect downstream consumers. Mary’s project also benefits from any projects in her software supply chain that themselves are utilizing OpenSSF tools and following best practices.
+
 #### If project is OpenSSF project
 - Security audit and review
+
 #### If project isn’t OpenSSF project
 - Scorecard to help get metrics on the security health of the project
 - Allstar for ensuring adherence to security best practices
@@ -40,18 +48,23 @@
 
 ##### Name: Ursula the Upstream Maintainer
 - Full or part-time oss dev, not affiliated with a commercial organization (or work is not related to such).
+
 ###### Role: 
 - SRE for  tech company
+
 ###### Background: 
 - Ursula created an open source project on the weekend in order to learn a new programming language and other new tech. That project exploded in popularity and she continues to maintain it after hours and on the weekends along with support from some other volunteers she’s acquainted with. She also works at a tech company that allows her to work on the project but as it's unrelated to her day job requests that she only work on it after hours and with no implied or explicit company affiliation.
+
 ###### Personal Goals:
 - Not get fired for breaking company rules with respect to the open source project.
 - To learn new tech and create something she thinks is cool. Her goal here isn’t to necessarily get adoption and therefore is not interested in achieving regulatory consistency that might be requested by {downstream consumers?}.
 - To not get burnt out from working both a day job and doing after hours work on the project.
+
 ###### Project Goals
 - Create, update, and merge features that she wants to, along with input from the community
 - Maybe one day turn it into a primary or side job
 - Urusla has no intention of putting the project under an open source foundation while it’s just a side project
+
 ###### Challenges:
 - Requests come in both from individuals on their own behalf as well as persons representing large organizations demanding addition of features, assurances around security, etc. She does not get paid for her work on the project.
 - Ursula is worried about upcoming legal requirements that might require her to either abandon the side project or have to figure out how to perform expensive, in both time and money, security and compliance tasks.
@@ -64,9 +77,10 @@
 - OpenSSF needs to create things that are “easily consumable”: Merge requests / pull requests where practical, CONTRIBUTING guides, issue templates, “bite-sized” tasks (it’s easier to find time for many 15 minute tasks instead of an 8 hour block), “obviously right” solutions.
 
 ##### Name: Stanislav the Student Maintainer
--	Part-time dev working on passion or school project.  Low-to-no resources.
+- Part-time dev working on passion or school project.  Low-to-no resources.
 
 ## Name: Finn the Finder
+
 ### Role: 
 - Hacker
 - Researcher
@@ -74,19 +88,24 @@
 - Bug/Bounty Hunter
 - Concerned Software Enthusiast -- I find and/or research security vulnerabilities
 - Consumer that discovers a vulnerability in implementation
+
 ### Background:
 - Where there is software, there will be vulnerabilities. Finders intentionally, or unintentionally, discover vulnerabilities in software. Open source software has vulnerability disclosure processes that connect finders to projects/maintainers for developing a patch that downstream consumers of the open source can apply to remediate the vulnerability. Future versions of the open source should have the vulnerability closed, so downstream consumers of the software are not exposed to discovered vulnerabilities.  
+
 #### Possible spectrum of experience:
 - Job to do this
 - In security and job is to notice
 - Not a job, a hobby or accidental discovery
+
 ### Goals:
 - Wants to discover vulnerabilities before threat actors.
 - Wants recognition/credit for discovering complex and/or high severity vulnerabilities in order to grow their career
+
 ### Challenges:
 - Unknowns caused by projects who do not have well published and public vulnerability disclosure policies
 -Developers & vendors who are not responsive
 -Vulnerabilities that I discover that get exploited in the wild
+
 ### How the OpenSSF can help:
 - Continue to provide vulnerability disclosure process to connect finders to open source projects/maintainers
 - Educate finder personas with the importance and availability of the open source security vulnerability disclosure process to encourage timely and secure reporting of vulnerabilities they find. 
@@ -103,10 +122,12 @@
 - Consumers of software can make automated decisions using the RISK metrics (built on security scorecard metrics) to understand open source projects that address “found” vulnerabilities in a timely manner (timely being a consumer's risk tolerance for using open source software with various MTTR).
 
 ### Name: Siddharth the Supplier
+
 #### Role: 
 - Siddharth’s company creates a commercial product that heavily uses open source software and has hundreds of dependencies on assorted OSS libraries.
 - Siddharth’s engineers contribute features and bug fixes back upstream to many of the packages used within their product and are active project community members in the projects they deem most critical to their solutions.
 - Based on their community contributions and project roles, they sometimes are included in CVD efforts for a few of their OSS components, but not all (not even a large number).  These roles allow them to share pre-embargo information ahead of public disclosure internally to prepare so their customers can have patches available at the time of public disclosure. 
+
 #### Background:
 - Suppliers may or may not understand all of the third-party components and open source software included in their commercial offerings.
 - Suppliers typically will support some form of platform or commercial product they license or provide support/subscriptions for.
@@ -146,6 +167,7 @@ I need to understand when fixes and vulnerability patches are provided upstream 
 - Slow and steady, traditional vendor of a large software system with long development cycles. The resulting software system is often probably critical to the company / country, so the impact of errors can be largeare extremely concerning, leading to general risk aversion. It’s also probably large with a lot of technical debt, and the current maintainers may not be familiar with parts of the system (as their previous maintainers have left), making changes hard and costly.
 
 ### Name: Carl the Consumer
+
 #### Role:
 - Consumers utilize open source software to create software and/or other products which includes open source software as building blocks
 - Consumers primarily ingest open source software, but may also contribute features and security improvements, yet in significantly lower volumes than ingesting open source software
@@ -173,6 +195,7 @@ I need to understand when fixes and vulnerability patches are provided upstream 
 - Provide data (sources) which provide an insight into the security qualities of open source projects
 
 ##### Name: Danika the Developer-Consumer
+
 ###### Role: 
 - Software Engineer at Medium Sized Bank
   
@@ -194,6 +217,7 @@ I need to understand when fixes and vulnerability patches are provided upstream 
 - OpenSSF through its work in helping define or collaborate on controls, standards, best practices, and regulations can drive industry and community change that will eventually be adopted in larger, often slower moving, enterprises.
 
 ##### Name: Otto the Organization-Consumer
+
 ###### Role:
 -
 
@@ -210,6 +234,7 @@ I need to understand when fixes and vulnerability patches are provided upstream 
 -
 
 ## Name: Layperson (future)
+
 ### Role:
 -
 
