@@ -3,6 +3,8 @@
 
 We are a group of community members working to help define the vision and execution of the OpenSSF's Security Toolbelt initiative that is focused on helping all participants and consumers in the open source software ecosystem work more securely.
 
+We are part of the [BEST Working Group](https://github.com/ossf/wg-best-practices-os-developers).
+
 ### Motivation
 
 The open source software ecosystem has incredible diversity and variation of practice.  The Security Toolbelt seeks to provide consistent guidance, processes, and tools that enable open source developers to create amazing software, securely, and allow all partipants and consumers of that downstream supply chain to be able to understand the security qualities of how that software was written, assembled, and delivered to them, as well as concrete things downstream can do to implement this software securely.
