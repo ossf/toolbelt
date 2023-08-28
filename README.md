@@ -20,35 +20,32 @@ A world where **every software package is verifiably trustworthy**, across all m
 ## Strategy
 
 To achieve the mission and vision of the Toolbelt initiative, the following strategy will be followed
-<ol>
-<li>Expose critical security actions through the definition of specific use cases that are needed to harden the software factory from code through deploy.</li>
-<li>Define barriers to the adoption of security tooling in the software factory.</li>
-<li>Identify and address gaps in tooling that are not addressed by existing open-source and closed source security tooling categories.</li>
-<li>Create a coalition of open-source and closed source contributors to define a common security tooling vocabulary.</li> 
-<li>Support existing tooling integration efforts, or build a common integration layer between security tooling that can be easily integrated into developer practices, regardless of language/platform.</li> 
-<li>Drive and then monitor the adoption of key pieces of the toolbelt into upstream language ecosystems. Where they succeed we will document and aim to make repeatable; where they underwhelm, we will analyze why. Where they fail, we will look for fixes or alternatives.</li>
-<li>To iterate a scalable system, we will work with the Alpha-Omega project to identify potential POC teams to test out approaches, including projects with a single maintainer.</li>
-</ol>
+
+1. Expose critical security actions through the definition of specific use cases that are needed to harden the software factory from code through deploy.
+1. Define barriers to the adoption of security tooling in the software factory.
+1. Identify and address gaps in tooling that are not addressed by existing open-source and closed source security tooling categories.
+1. Create a coalition of open-source and closed source contributors to define a common security tooling vocabulary.
+1. Support existing tooling integration efforts, or build a common integration layer between security tooling that can be easily integrated into developer practices, regardless of language/platform.
+1. Drive and then monitor the adoption of key pieces of the toolbelt into upstream language ecosystems. Where they succeed we will document and aim to make repeatable; where they underwhelm, we will analyze why. Where they fail, we will look for fixes or alternatives.
+1. To iterate a scalable system, we will work with the Alpha-Omega project to identify potential POC teams to test out approaches, including projects with a single maintainer.
 
 What the strategy will not include:
-<ul>
-<li>A strict list of security tooling.</li> 
-<li>This strategy will not be a “big tent” of all possible tools and approaches, but a lean collection of strictly the most important pieces we expect the toolchains of the world to adopt. This must still be vendor-neutral.</li>
-</ul>
+
+1. A strict list of security tooling.
+1. This strategy will not be a “big tent” of all possible tools and approaches, but a lean collection of strictly the most important pieces we expect the toolchains of the world to adopt. This must still be vendor-neutral.
 
 ## Roadmap
 
 At each stage of this roadmap, we will revise and refine our plans based on what we have learned.
-<ol>
-<li>The OpenSSF will develop a clear set of **capabilities**, **personas**, **use cases**, **taxonomy**/**shared language**, and **threat models** that span the entirety of the software supply chain.</li>
-<li>Align controls to the threats identified and with **existing control frameworks**, e.g. [NIST SP800-218](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218.pdf). Where existing control frameworks are insufficient, we will propose new controls.  Based on that, **develop a map** of the existing products, processes, templates and other IP (inside and outside the OpenSSF) that act as “controls”, that reduce the risks identified by these use cases and threat models.</li>
-<li>Perform a **market survey** to determine what products, patterns or techniques could achieve the control requirements identified in (2), noting where there are gaps.</li>
-<li>**Identify functional gaps, integration challenges, and opportunities to simplify** by looking at the links between these pieces. </li>
-<li>**Fill those gaps** by adapting interfaces/existing tools/processes/templates or driving the development of new interfaces/tools/processes/templates. Address the integration challenges by working with the existing pieces to get to e.g. better APIs. Develop a shared vocabulary to avoid confusion between the parts of the Toolbelt.</li>
-<li>Validate the approach by **working with selected OSS** projects and modify it as necessary.</li>
-<li>Document everything to sufficient degree as to **develop a certification mark** (or series of marks) that verify conformant toolchains and other supply chain components, and a dashboard or other risk measurement frameworks that drive a “race to the top” among toolchains and ecosystems.</li>
-<li>Develop an **outreach strategy** to initiate adoption and build awareness of the toolbelt solution. The outreach should be persona / platform based.</li>
-</ol>
+
+1. The OpenSSF will develop a clear set of **capabilities**, **personas**, **use cases**, **taxonomy**/**shared language**, and **threat models** that span the entirety of the software supply chain.
+1. Align controls to the threats identified and with **existing control frameworks**, e.g. [NIST SP800-218](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218.pdf). Where existing control frameworks are insufficient, we will propose new controls.  Based on that, **develop a map** of the existing products, processes, templates and other IP (inside and outside the OpenSSF) that act as “controls”, that reduce the risks identified by these use cases and threat models.
+1. Perform a **market survey** to determine what products, patterns or techniques could achieve the control requirements identified in (2), noting where there are gaps.
+1. **Identify functional gaps, integration challenges, and opportunities to simplify** by looking at the links between these pieces.
+1. **Fill those gaps** by adapting interfaces/existing tools/processes/templates or driving the development of new interfaces/tools/processes/templates. Address the integration challenges by working with the existing pieces to get to e.g. better APIs. Develop a shared vocabulary to avoid confusion between the parts of the Toolbelt.
+1. Validate the approach by **working with selected OSS** projects and modify it as necessary.
+1. Document everything to sufficient degree as to **develop a certification mark** (or series of marks) that verify conformant toolchains and other supply chain components, and a dashboard or other risk measurement frameworks that drive a “race to the top” among toolchains and ecosystems.
+1. Develop an **outreach strategy** to initiate adoption and build awareness of the toolbelt solution. The outreach should be persona / platform based.
 
 Original working [document](https://docs.google.com/document/d/1k-0ReRSXEOIT8FRVbwNMe0BJ-QUvn-0c0hfFY-f4QzA/edit)
 
