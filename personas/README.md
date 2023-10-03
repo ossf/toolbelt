@@ -1,3 +1,5 @@
+<img align="top" src="https://github.com/ossf/toolbelt/blob/main/personas/Toolbelt-personas.png">
+
 # Personas
 
 - Maintainer - a developer, contributor, or maintainer
