@@ -4,7 +4,7 @@ From the agreed-upon list of desired capabilities, further work and analysis wil
 
 # Capabilities
 
-<img align="top" src="[https://github.com/ossf/toolbelt/blob/main/capabilities/Toolbelt%20Capabilities.png]">
+<img align="top" src="https://github.com/ossf/toolbelt/blob/main/capabilities/Toolbelt%20Capabilities.png">
 
 ## Capabilities desired from the Upstream Secure Software Factory
 ### Code & Pre-Build
