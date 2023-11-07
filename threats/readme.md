@@ -1,3 +1,19 @@
+# Security Toolbelt Threats
+
+The Security Toolbelt has identified a series of threats that are possible within (open source) software supply chains.  We've documented these Threats and organized them according to their presence at specific stages or the lifecycle of the software being developed:
+- Developer
+- Development Environment
+- Source Code Management
+- Build/CI
+- Publication
+- Consumer Ingestion
+- Consumer Implementation
+- Consumer Maintenance
+
+Details of each area is documented in a coorsponding file.
+
+## Resouces
+
 Many resources exist that describe assorted aspects of threats to software supply chains.  Here is a list of references the Security Toolbelt group used to inform our work:
 - OSSF End User WG [Threat Model](https://docs.google.com/document/d/1lLCsT0a5vp6FcvquWPzx8AzhFMORyw-4rd9WSyUO9zI/edit#heading=h.gjdgxs)
 - Taxonomy of Attacks on Open-Source Software Supply Chains [paper](https://arxiv.org/abs/2204.04008)
