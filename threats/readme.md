@@ -1,6 +1,9 @@
 # Security Toolbelt Threats
 
 The Security Toolbelt has identified a series of threats that are possible within (open source) software supply chains.  We've documented these Threats and organized them according to their presence at specific stages or the lifecycle of the software being developed:
+
+<img align="top" src="https://github.com/ossf/toolbelt/blob/main/threats/Toolbelt%20Threats.png">
+
 - [Developer](https://github.com/ossf/toolbelt/blob/main/threats/Developer_Threats.md)
 - Development Environment
 - Source Code Management
