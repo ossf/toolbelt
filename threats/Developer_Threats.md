@@ -13,3 +13,8 @@ The following threats have been identified to be in scope that threaten the Secu
 - Compromised Developer Account (impersonation) 
 - Developer under duress
 - “Tail-gating”
+
+## Assumptions
+- Developer can be a project maintainer, contributor, or community member
+- Developers have the ability to create new code, edit older code, integrate new 3rd party components or dependencies.  
+- Only certain developers (maintainers) have the ability to push commits into main branch of software
