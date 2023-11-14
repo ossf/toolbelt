@@ -1,6 +1,6 @@
 The following threats have been identified to be in scope that threaten the Secure Developer capability:
 
-## (Category) Actor merges malicious commit/regression
+## (Category) Actor merges malicious commit/regression/dependency
 - Malicious Developer
 - Untrained Developer
 -- Lack of knowledge of security primitives affecting the code they produce
