@@ -5,7 +5,7 @@ The Security Toolbelt has identified a series of threats that are possible withi
 <img align="top" src="https://github.com/ossf/toolbelt/blob/main/threats/Toolbelt%20Threats.png">
 
 - [Developer](https://github.com/ossf/toolbelt/blob/main/threats/Developer_Threats.md)
-- Development Environment
+- [Development Environment](https://github.com/ossf/toolbelt/blob/main/threats/Developer_Environment_Threats.md)
 - Source Code Management
 - Build/CI
 - Publication
