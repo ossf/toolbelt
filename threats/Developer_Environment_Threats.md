@@ -1,6 +1,6 @@
 The following threats have been identified to be in scope that threaten the Secure Developer Environment capability:
 
-## TBT-1100 (Category) TBT-2100 (Category) Failure to perform Cyber Hygiene regularly creates Insecure development environment
+## TBT-2100 (Category) Failure to perform Cyber Hygiene regularly creates Insecure development environment
 - Missing or not up to date tools (e.g.AV/EDR leads to Malware infection)
 - Unpatched Dev Env with exploitable vulns
 - Use of software and tools with vulnerabilities; harden/patch software and tools
