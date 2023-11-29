@@ -8,24 +8,24 @@ From the agreed-upon list of desired capabilities, further work and analysis wil
 
 ## Capabilities desired from the Upstream Secure Software Factory
 ### Code & Pre-Build
-#### Secure Developer
+#### [Secure Developer](https://github.com/ossf/toolbelt/blob/main/capabilities/Secure_Developer_Capability.md)
 It is desirable that developers have knowledge of how to develop software securely, that they understand common coding errors and patterns of behaviour that lead to security vulnerabilities, and have the means to highlight their security expertise.
 
-#### Secure Development Environment
+#### [Secure Development Environment](https://github.com/ossf/toolbelt/blob/main/capabilities/Secure_Development_Environment_Capability.md)
 It is desirable that developers have access to and use secure tools to create and test software. This would include various security tools such as SAST, fuzzers, etc.
 
 #### Secure Dependency Selection
 It is desirable that developers select dependencies to select secure and sustainable projects and ensure they’re ingesting the intended components (countering typosquatting).
 
-#### Secure Source Code Management
+#### [Secure Source Code Management](https://github.com/ossf/toolbelt/blob/main/capabilities/Secure_Source_Code_Management_Capability.md)
 It is desirable that developers and projects store source code for their software in secured repositories that help manage and track the integrity of that code.
 
 ### Build
-#### Secure CI/CD - Build System
+#### [Secure CI/CD - Build System](https://github.com/ossf/toolbelt/blob/main/capabilities/Secure_Build%2BCI_Capability.md)
 It is desirable that developers and projects use secure build systems that continuously integrate and build authorized software, and also leverage secure tools for automation of repeated tasks.
 
 ### Post build
-#### Secure Publication/Distribution
+#### [Secure Publication/Distribution](https://github.com/ossf/toolbelt/blob/main/capabilities/Secure_Publication-Distribution_Capability.md)
 It is desirable that developers and projects use secure methods and tools to publish and distribute their production-ready software to their downstreams.
 
 ### Post publish
