@@ -1,4 +1,4 @@
-The following threats have been identified to be in scope that threaten the Secure Developer Environment capability:
+The following threats have been identified to be in scope that threaten the [Secure Developer Environment](https://github.com/ossf/toolbelt/blob/main/capabilities/Secure_Development_Environment_Capability.md) capability:
 
 ## TBT-2100 (Category) Failure to perform Cyber Hygiene regularly creates Insecure development environment
 - TBT-2110 - Missing or not up to date tools (e.g.AV/EDR leads to Malware infection)
