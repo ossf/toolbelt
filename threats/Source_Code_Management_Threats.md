@@ -7,13 +7,13 @@ The following threats have been identified to be in scope that threaten the [Sec
 - TBT-3140 - Loss of access (DoS)
 - TBT-3150 - Sign commit, and validate what changed since hash
 
-|             |                                                            |  
-| :------:    | :--------------------------------------------------------: | 
-|    TBT-3100 | Actor pushes malicious or vulnerable code to repo and/or deletes code   | 
-| Description | Within the SCM system, an Actor injects malicious or vulerable code into the project or delete  |      
+|                 |                                                            |  
+| :------:        | :--------------------------------------------------------: | 
+|    TBT-3100     | Actor pushes malicious or vulnerable code to repo and/or deletes code.| 
+| Description     | Within the SCM system, an Actor injects malicious or vulerable code into the project or deletes source code files, logs, or configs.|      
 |    Controls     |         |
-|    Example(s)     |         |
-|    References     |  |
+|    Example(s)   |         |
+|    References   |         |
 
 
 ## TBT-3200 (Category) - Source code repo configuration- Actor implements inadequate repo permissions which leads to information disclosure, altered integrity, or loss of availability 
@@ -23,13 +23,13 @@ The following threats have been identified to be in scope that threaten the [Sec
 - TBT-3240 - Policy Agent: Pre-commit hooks. 
 - TBT-3250 - Commit logs. Make sure logs are created and can’t be tampered with
 
-|             |                                                            |  
-| :------:    | :--------------------------------------------------------: | 
-|    TBT-3200 | Source code repo configuration- Actor implements inadequate repo permissions which leads to information disclosure, altered integrity, or loss of availability    | 
-| Description | Actor either by malice or mistake configures SCM repo with permissions that are inadequate to protect information stored within.   |      
-|    Controls     |  Mitigations - to get access to premier features, use a merkle tree to have logs by default.  |
+|                   |                                                            |  
+| :------:          | :--------------------------------------------------------: | 
+|    TBT-3200       | Source code repo configuration- Actor implements inadequate repo permissions which leads to information disclosure, altered integrity, or loss of availability    | 
+| Description       | Actor either by malice or mistake configures SCM repo with permissions that are inadequate to protect information stored within.   |      
+|    Controls       |  Mitigations - to get access to premier features, use a merkle tree to have logs by default.  |
 |    Example(s)     |         |
-|    References     |  |
+|    References     |         |
 
 ## TBT-3300 (Category) - An out of band actor directly manipulates SCM contents
 
@@ -37,19 +37,19 @@ The following threats have been identified to be in scope that threaten the [Sec
 | :------:    | :--------------------------------------------------------: | 
 |    TBT-3300 | An out-of-band actor directly manipulates SCM contents  | 
 | Description | Malicious actor tampers with code outside of the SCM system’s control plane.  E.g. get access directly to the server   |      
-|    Controls     |         |
+|    Controls       |         |
 |    Example(s)     |         |
-|    References     |  |
+|    References     |         |
 
 ## TBT-3400 (Category) Lack of resilient/redundant infrastructure leads to Denial of Service of the developer’s workstation, dependent software, or other infrastructure used within the pipeline that hinders the developer from writing an/or promoting code
 
 |             |                                                            |  
 | :------:    | :--------------------------------------------------------: | 
-|    TBT-3400 | Lack of resilient/redundant infrastructure leads to Denial of Service of the developer’s workstation, dependent software, or other infrastructure used within the pipeline that hinders the developer from writing an/or promoting code.  | 
-| Description |   |      
+|    TBT-3400 | Lack of resilient/redundant infrastructure leads to Denial of Service of the developer’s workstation, dependent software, or other infrastructure used within the pipeline that hinders the developer from writing an/or promoting code.| 
+|   Description   |  Infrastructure not sufficiently resilent to withstand denial of service attack or availability loss, which denies developers the ability to merge new code into repository.       |      
 |    Controls     |         |
-|    Example(s)     |         |
-|    References     |  |
+|    Example(s)   |         |
+|    References   |         |
 
 ## TBT-3500 (Category) Code quality requirements not being met
 - TBT-3510 - Undocumented or unknown dependencies to communicate the recipe for build software. Store an SBOM - Know all components and dependencies needed to use the software. If had a diff, could know if something in source code was altered in a change of custody
@@ -59,10 +59,10 @@ The following threats have been identified to be in scope that threaten the [Sec
 |             |                                                            |  
 | :------:    | :--------------------------------------------------------: | 
 |    TBT-3500 | Code quality requirements not being met  | 
-| Description | Software merged into the source code repo does not meet quality standards of the project and introduces regressions and vulnerabilities that could lead to explotation.  |      
-|    Controls     |         |
-|    Example(s)     |         |
-|    References     |  |
+| Description | Software merged into the source code repo does not meet quality standards of the project and introduces regressions and vulnerabilities that could lead to explotation.|
+|    Controls      |         |
+|    Example(s)    |         |
+|    References    |         |
 
 ## Assumptions
 - Source Code Management can be performed on a developer workstation, within a shared SCM server, or in a cloud-based environment
