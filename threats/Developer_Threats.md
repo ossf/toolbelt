@@ -1,4 +1,4 @@
-The following threats have been identified to be in scope that threaten the Secure Developer capability:
+The following threats have been identified to be in scope that threaten the [Secure Developer](https://github.com/ossf/toolbelt/blob/main/capabilities/Secure_Developer_Capability.md) capability:
 
 ## TBT-1100 (Category) Actor merges malicious commit/regression/dependency
 - TBT-1110 - Malicious Developer
