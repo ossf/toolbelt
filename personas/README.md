@@ -78,7 +78,7 @@
 - Provide an easy on-ramp to the foundation that helps lessen the resources needed to implement this tooling and practices.
 - OpenSSF needs to create things that are “easily consumable”: Merge requests / pull requests where practical, CONTRIBUTING guides, issue templates, “bite-sized” tasks (it’s easier to find time for many 15 minute tasks instead of an 8 hour block), “obviously right” solutions.
 
-## Name: Diana the wweekend warrior
+## Name: Diana the weekend warrior
 
 ### Role:
 - working on open source software in their "spare time"
