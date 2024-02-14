@@ -78,7 +78,7 @@
 - Provide an easy on-ramp to the foundation that helps lessen the resources needed to implement this tooling and practices.
 - OpenSSF needs to create things that are “easily consumable”: Merge requests / pull requests where practical, CONTRIBUTING guides, issue templates, “bite-sized” tasks (it’s easier to find time for many 15 minute tasks instead of an 8 hour block), “obviously right” solutions.
 
-## Name: Diana the weekend warrior
+## Name: Diana the Weekend Warrior
 
 ### Role:
 - working on open source software in their "spare time"
@@ -88,25 +88,22 @@
  ### Background:
 - I maintain a couple of small packages and contribute new medium size but impactful features to my underlying ecosystem. (Think a compiler optimisation for floats that takes a few months of work and extremely niche knowledge to get right) This is a really common and critical profile.
 - Diana is in a loose network of other niche people doing the same in my ecosystem.
-- Diana has challenges keeping their toolchain and CI systems up-to-date and running and has antiquated security tools to help (e.g. an out of support MFA token) with no adidtional funds to replace.
+- Diana has challenges keeping their toolchain and CI systems up-to-date and running. C was not made for this kind of work, nor are most of the packaging ecosystem, and they have to fight with them all the time.
   
 ### Goals:
 - keep the project going and as maintained as possible, given constraints of budget, time, and resources.
 - 
 ### Challenges:
-- Diana usually gets something like 2h per month to spend on FOSS. Sometimes up to 4h, sometimes less. 1 to 2h per month are dedicated to simply updating base dependencies. This is when it is just a few patches or minor versions. Sometimes up to 4h are taken for this. Sometimes a big major version in an important dependency happens and it takes us 10h to fix, over a quarter. This means that nearly all our time is spent handling dependency stuff. Basic stuff. Not security emergencies, or anything like that. Releasing a new version that just is kept up to date basically.
-- Diana does not have more time to give. Life is what it is, they have family, a job, friends, etc.
-- Diana's tests for the project are in poor shape.  This is very well known.  They want to make them better, but per above, there is no additional time to devote to this task.  Even something like fuzzing would be incredibly challenging to deal with the additional bugs that could be found, prioritized, and eventually (maybe) fixed.
-- Diana has no additional time to read security oriented material.
-- Most of Diana's time is spent fighting build and dependency management tools. This is a constant problem.  These tools often break in new and obscure ways. Oftentimes features of the tool need to be disabled to even make things work nd not break my builds.  There are proably ways around this, but again, see above, there is no additional time to troubleshoot, research, and adjust. Even the basic tools breaks too much and eat Diana's time.
-- Reviewing and reacting to of user reports is challenging.
-- Sometimes only updating minor version update for that dependency which had an innocuous changelog?!?? Wait they messed up their versionning. This was API breaking change but they had no idea. I would have the same mistake. It is not obvious. Aaaargh. Well i guess i will have to tell everyone to use the old version for the next 6 months while we spend our 6h per quarter all fixing it. Hope no emergency security patch come through during that time.
+- Diana usually gets something like 2 hours per month to spend on FOSS. Sometimes up to 4h, sometimes less. 1 to 2h per month are dedicated to simply updating base dependencies. This is when it is just a few patches or minor versions. Sometimes up to 4 hours are taken for this. Sometimes a big major version in an important dependency happens and it takes us 10h to fix, over a quarter. This means that nearly all our time is spent handling dependency stuff. Basic stuff. Not security emergencies or anything like that. Releasing a new version that just is kept up to date basically.
+- Diana does not have more time to give. Life is what it is; they have family, a job, friends, etc.
+- Diana's tests for the project are in poor shape.  This is very well known.  They want to make them better, but per the above, there is no additional time to devote to this task.  Even something like fuzzing would be incredibly challenging to deal with the additional bugs that could be found, prioritized, and eventually (maybe) fixed.
+- Diana has no additional time to read security-oriented material or the use. They know what need to be done.
+- Most of Diana's time is spent fighting build and dependency management tools. This is a constant problem.  These tools often break in new and obscure ways. Oftentimes, features of the tool need to be disabled to even make things work and not break their builds.  There are proably ways around this, but again, see above, there is no additional time to troubleshoot, research, and adjust. Even the basic tools break too much and eat Diana's time.
+- Reviewing and reacting to user reports is challenging.
+- Sometimes, only updating minor versions breaks things for that dependency, which had an innocuous changelog?!?? Wait, they messed up their versioning. This was API breaking change, but they had no idea. I would have made the same mistake. It is not obvious. Aaaargh. Well i guess i will have to tell everyone to use the old version for the next 6 months while we spend our 6h per quarter all fixing it. I hope no emergency security patch comes through during that time.
 
 ### How the OpenSSF can help:
-- Provide access and assistance in integrating security tooling and automation for Diana's toolchain.
-- Provide assistance in tuning automated tools alerts & outputs.
-- Provide resources & assistance to maintain toolchain (shared secure public services, resources to assist with infrastructure maintenance, and more).
-
+- Build and update tools and toolchains to be more aligned to the realities of Diana's work.
 
 ## Name: Stanislav the Student Maintainer
 - Part-time dev working on passion or school project.  Low-to-no resources.
