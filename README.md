@@ -86,11 +86,13 @@ Areas that need contributions :
 
 The [CHARTER.md](https://github.com/ossf/Diagrammers-Society/blob/main/CHARTER.md) outlines the scope and governance of our group activities.
 
-    Lead name : TBD
-    Co-Lead name: TBD
+    Co-Lead name : [Sarah Evans, Dell](https://github.com/sevansdell)
+    Co-Lead name: [John Kjell, TestifySec](https://github.com/jkjell)
 
 ### Project Maintainers
-    TBD
+    [Sarah Evans, Dell](https://github.com/sevansdell)
+    [John Kjell, TestifySec](https://github.com/jkjell)
+    [Christopher "CRob" Robinson, Intel](https://github.com/SecurityCRob)
 
 ### Project Collaborators
 
