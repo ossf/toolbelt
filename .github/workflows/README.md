@@ -18,7 +18,7 @@ Requirements:
 
 - Should be easy to update (e.g. dependency bot should not complain about a dozen things for you to update every other day)
 - Should consist of pieces that easily interoperate.
-- Should be as simple as possible for the user as possible
+- Should be as simple as possible for the user
 
 Proposed MVP Solution: A Github Actions workflow-based solution for Go projects with Go being widely supported by most of the tools we're including
 Implement as many of the scorecard, SLSA, and other OpenSSF best practices/requirements as possible.
