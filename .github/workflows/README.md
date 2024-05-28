@@ -20,7 +20,7 @@ Requirements:
 - Should consist of pieces that easily interoperate.
 - Should be as simple as possible for the user as possible
 
-Proposed MVP Solution: A Github workflow-based solution for Go with Go being widely supported for most of the stuff we need
+Proposed MVP Solution: A Github Actions workflow-based solution for Go projects with Go being widely supported by most of the tools we're including
 Implement as many of the scorecard, SLSA, and other OpenSSF best practices/requirements as possible.
 
 ---
