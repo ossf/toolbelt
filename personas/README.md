@@ -20,7 +20,7 @@
 - *Most Valuable Resources*: Policy summits, case studies, OpenSSF Security Baseline, OpenSSF Scorecard.
 - *Common Challenges*: Need better integration with other Linux Foundation projects.
 - *Improvement Suggestions*: Strengthen cross-project engagement and enterprise adoption messaging.
-- *Sub Personas*: Olga OSPO, Eoin IR, Tais the 3rd party vendor manager, Regulated Ragnar
+- *Sub Personas*: Olga OSPO, Eoin IR, Thais the 3rd party vendor manager, Regulated Ragnar
 
 ## Security Engineer (Program Manager, Researcher, or Architect)
 - *Primary Motivation*: Finding security solutions, contributing to open source security.
@@ -34,7 +34,7 @@
 - *Most Valuable Resources*: Policy summits, case studies, OpenSSF Securty Baseline.
 - *Common Challenges*:  Need better integration with other Linux Foundation projects.
 - *Improvement Suggestions*: Strengthen cross-project engagement and enterprise adoption messaging.
-- *Sub Personas*:  Charli the CEO, Tobias the CTO, Sammy Security CISO
+- *Sub Personas*:  Charli the CEO, Tomo the CTO, Sammy Security CISO
 
 ## Product Marketing & Community Engagement
 - *Primary Motivation*: Staying informed on open source security trends.
