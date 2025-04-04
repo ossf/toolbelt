@@ -99,3 +99,28 @@
 ## Name: Stanislav the Student Maintainer
 - Part-time dev working on passion or school project.  Low-to-no resources.
 
+
+
+##### Name: Danika the Developer-Consumer
+
+###### Role: 
+- Software Engineer at Medium Sized Bank
+  
+###### Background: 
+- Danika is a 9-5 software engineer at a bank. She does not do software development in the open source space though she does consume open source software as part of her job. She spends most of her day in an IDE writing software. Once a week she gets a report from security about SCA discovering vulnerabilities in her software.
+
+###### Goals:
+- Release features while hitting business deadlines and following bank compliance and policy requirements. These requirements involve vulnerability remediation deadlines, security control implementations, etc.
+- Danika wants policy and compliance related feedback earlier in the SDLC loop. She would love to have information about using compliance (security, EOL, etc) in the tools she uses (IDEs, CLI tools, etc)
+
+###### Challenges:
+- She is just one developer in a large organization. She does not have the ability to drive meaningful change on her own. This means she is at the whims of the policies and process within the organization including security requirements even if those requirements might not be aligned with modern best practices.
+- She does not have much if any security training outside basic quarterly training on how to identify common SQL injection attacks and similar.
+
+###### How the OpenSSF can help:
+- Interpreting the complicated internal jargon and requirements when creating issues in open source dependencies in order to request improvements of security and compliance.
+- Creating forward thinking best practices and standards that can help Danika become more proactive in securing her software as opposed to reactive.
+- This includes providing Danika with ammunition to help her push for change.
+- OpenSSF through its work in helping define or collaborate on controls, standards, best practices, and regulations can drive industry and community change that will eventually be adopted in larger, often slower moving, enterprises.
+
+
