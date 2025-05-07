@@ -6,7 +6,7 @@ The Security Toolbelt has identified a series of threats that are possible withi
 
 - [Developer](https://github.com/ossf/toolbelt/blob/main/threats/Developer_Threats.md)
 - [Development Environment](https://github.com/ossf/toolbelt/blob/main/threats/Developer_Environment_Threats.md)
-- [Source Code Management](https://github.com/ossf/toolbelt/blob/main/threats/Source_Code_Management_Threats)
+- [Source Code Management](https://github.com/ossf/toolbelt/blob/main/threats/Source_Code_Management_Threats.md)
 - [Build/CI](https://github.com/ossf/toolbelt/blob/main/threats/Build%2BCI_Threats.md)
 - [Publication](https://github.com/ossf/toolbelt/blob/main/threats/Publication_Threats.md)
 - Consumer Ingestion
