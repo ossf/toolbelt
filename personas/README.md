@@ -16,7 +16,7 @@
 - *Most Valuable Resources*: Hands-on projects, contributor guides, GitHub issues.
 - *Common Challenges*: Onboarding to projects, finding clear "good first issues."
 - *Improvement Suggestions*: More beginner-friendly contribution pathways, enhanced documentation, and mentorship.
-- *Sub Personas*: [Ursula the Upstream Maintainer](https://github.com/ossf/toolbelt/blob/main/personas/softwaredeveloper.md#name-ursula-the-upstream-maintainer), [Diana the Weekend Warrior](https://github.com/ossf/toolbelt/blob/main/personas/softwaredeveloper.md#name-diana-the-weekend-warrior), [Debbie the Downstream Contributor](https://github.com/ossf/toolbelt/blob/main/personas/softwaredeveloper.md#name-debbie-the-downstream-contributor), [Stansilav the Student](https://github.com/ossf/toolbelt/blob/main/personas/softwaredeveloper.md#name-stanislav-the-student-maintainer), [Allison the AIML Engineer], (url placeholder0
+- *Sub Personas*: [Ursula the Upstream Maintainer](https://github.com/ossf/toolbelt/blob/main/personas/softwaredeveloper.md#name-ursula-the-upstream-maintainer), [Diana the Weekend Warrior](https://github.com/ossf/toolbelt/blob/main/personas/softwaredeveloper.md#name-diana-the-weekend-warrior), [Debbie the Downstream Contributor](https://github.com/ossf/toolbelt/blob/main/personas/softwaredeveloper.md#name-debbie-the-downstream-contributor), [Stansilav the Student](https://github.com/ossf/toolbelt/blob/main/personas/softwaredeveloper.md#name-stanislav-the-student-maintainer), [Allison the AIML Engineer], (url placeholder)
 
 ## Open Source Professional (OSPO Lead, VP of Open Source, etc.)
 - *Primary Motivation*: Networking, collaboration, and enterprise engagement.
@@ -30,7 +30,7 @@
 - *Most Valuable Resources*: Diagrams, reference architectures, planning/design documents
 - *Common Challenges*: Component selection, understanding application outcomes, stay up to date with technology, bringing in AIML compoenents into AI applications.
 - *Improvement Suggestions*: Help staying up to date with technology, and how software is evolving to AI applications.
-- *Sub Personas*: [Ursula the Upstream Maintainer](https://github.com/ossf/toolbelt/blob/main/personas/softwaredeveloper.md#name-ursula-the-upstream-maintainer), [Diana the Weekend Warrior](https://github.com/ossf/toolbelt/blob/main/personas/softwaredeveloper.md#name-diana-the-weekend-warrior), [Debbie the Downstream Contributor](https://github.com/ossf/toolbelt/blob/main/personas/softwaredeveloper.md#name-debbie-the-downstream-contributor), [Stansilav the Student](https://github.com/ossf/toolbelt/blob/main/personas/softwaredeveloper.md#name-stanislav-the-student-maintainer)
+- *Sub Personas*: TBD
 -
 ## Security Engineer (Program Manager, Researcher, or Architect)
 - *Primary Motivation*: Finding security solutions, contributing to open source security.
@@ -44,7 +44,7 @@
 - *Most Valuable Resources*: Hands-on projects, contributor guides, GitHub issues.
 - *Common Challenges*: Onboarding to projects, finding clear "good first issues."
 - *Improvement Suggestions*: More beginner-friendly contribution pathways, enhanced documentation, and mentorship.
-- *Sub Personas*: [Ursula the Upstream Maintainer](https://github.com/ossf/toolbelt/blob/main/personas/softwaredeveloper.md#name-ursula-the-upstream-maintainer), [Diana the Weekend Warrior](https://github.com/ossf/toolbelt/blob/main/personas/softwaredeveloper.md#name-diana-the-weekend-warrior), [Debbie the Downstream Contributor](https://github.com/ossf/toolbelt/blob/main/personas/softwaredeveloper.md#name-debbie-the-downstream-contributor), [Stansilav the Student](https://github.com/ossf/toolbelt/blob/main/personas/softwaredeveloper.md#name-stanislav-the-student-maintainer)
+- *Sub Personas*: [Daniel the Data Scientist] (url placholder), [Susan the Data Engineer], (url placeholder0
 
 ## DevOps Engineer
 - *Primary Motivation*: Manage IT systems and set up CICD pipelines for application development.
