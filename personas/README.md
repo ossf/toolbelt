@@ -6,8 +6,8 @@
 - Open Source Professional - I am a consumer of open source software directly/indirectly for an organization
 - Solutions architect/Planning and Design - I design end-to-end applications.
 - Security Engineer - I am a Hacker, Security Researcher, Academic, Bug Bounty Hunter, Concerned Software Enthusist that looks at the security of open source software
-- DevOps Engineer - I manage IT systems and set up CICD pipelines for application development.
-- Data Scientist - I transform data sets, apply algorithms and create models for AIML.
+- DevOps Engineer - I manage IT systems and set up CI/CD pipelines for application development.
+- Data Operations Practitioner - I build secure, high-quality data pipelines and models that are production-ready and privacy-compliant.
 - Executive/C-Suite - I am a leader within an organization that ingests or contributes to open source software
 - Product Marketing &  Community Engagement - I am responsible for the messaging of our products and services and engagement within upstream communities
 
@@ -39,12 +39,12 @@
 - *Improvement Suggestions*: More beginner-friendly contribution pathways, enhanced documentation, and mentorship.
 - *Sub Personas*: Corporate Carl, [Finn the Finder](https://github.com/ossf/toolbelt/blob/main/personas/securityengineer.md#name-finn-the-finder), Aabha the Academic, Helle Huntress
 
- ## Data Scientist
-- *Primary Motivation*: transform data sets, apply algorithms and create models for AIML.
-- *Most Valuable Resources*: Hands-on projects, contributor guides, GitHub issues.
-- *Common Challenges*: Onboarding to projects, finding clear "good first issues."
-- *Improvement Suggestions*: More beginner-friendly contribution pathways, enhanced documentation, and mentorship.
-- *Sub Personas*: [Daniel the Data Scientist] (url placholder), [Susan the Data Engineer], (url placeholder0
+ ## Data Operations Practitioner
+- *Primary Motivation*: Build secure, high-quality data pipelines and models that are production-ready and privacy-compliant.
+- *Most Valuable Resources*: Hands-on projects, contributor guides, GitHub issues, Secure data tooling, reproducibility frameworks, and pipeline monitoring tools.
+- *Common Challenges*: Onboarding to projects, finding clear "good first issues", ensuring data provenance and integrity, collaborating securely across cross-functional teams, and securing external data sources and ML pipelines.
+- *Improvement Suggestions*: More beginner-friendly contribution pathways, enhanced documentation, mentorship, better ML-specific security tooling that integrates into data workflows and clear best practices for data.
+- *Sub Personas*: [Daniel the Data Scientist](https://github.com/BahaaShammary/toolbelt/blob/security-readme/personas/dataoperationspractitioner.md#name-daniel-the-data-scientist), [Susan the Data Engineer](https://github.com/BahaaShammary/toolbelt/blob/security-readme/personas/dataoperationspractitioner.md#name-susan-the-data-engineer), [Noura the Data Governance Analyst](https://github.com/BahaaShammary/toolbelt/blob/security-readme/personas/dataoperationspractitioner.md#name-noura-the-data-governance-analyst)
 
 ## DevOps Engineer
 - *Primary Motivation*: Manage IT systems and set up CICD pipelines for application development.
