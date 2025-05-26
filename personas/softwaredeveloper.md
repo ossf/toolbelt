@@ -174,13 +174,13 @@
 
 ---
 
-## Name: Alex the Solution Architect
+## Name: Allison the Solution Architect
 
 ### Role:
 - Principal Software Architect at a cloud infrastructure company
 
 ### Background:
-- Alex spends most of his time thinking about how all the parts of an ML system come together—APIs, data pipelines, models, cloud infrastructure, and everything in between. He doesn’t write a ton of code anymore, but he’s the person people go to when something needs to scale securely. He got involved with OpenSSF after realizing there just weren’t enough solid architectural patterns for secure ML systems. Now he tries to fit in upstream work between design reviews and meetings.
+- Allison spends most of her time thinking about how all the parts of an ML system come together—APIs, data pipelines, models, cloud infrastructure, and everything in between. She doesn’t write a ton of code anymore, but she’s the person people go to when something needs to scale securely. She got involved with OpenSSF after realizing there just weren’t enough solid architectural patterns for secure ML systems. Now she tries to fit in upstream work between design reviews and meetings.
 
 ### Goals:
 - Make ML system design more secure, not just more scalable
@@ -201,13 +201,13 @@
 ### Challenges:
 - Security often gets added last, when it should’ve been there from the start
 - It’s hard to find ML-focused security patterns that work in real-world systems
-- There’s barely time to contribute back, even when he really wants to
+- There’s barely time to contribute back, even when she really wants to
 - Coordinating across security, ML, and product teams can be slow and bureaucratic
 
 ### How the OpenSSF can help:
 - Run open design sessions where architects can share patterns and feedback
 - Keep a living repo of secure ML architecture examples
-- Support architects like Alex with async-friendly ways to contribute
+- Support architects like Allison with async-friendly ways to contribute
 
 ---
 
