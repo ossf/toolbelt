@@ -108,3 +108,40 @@
 - Build Terraform/Helm integrations that catch security missteps early
 - Offer pre-secured versions of popular ML OSS tools and containers
 - Curate OSS components that meet basic security criteria and are actively maintained
+
+- ---
+//Baha for you!//
+## Name: Ophelia the IT Infrastructure Engineer
+
+### Role:
+- Platform Reliability Engineer at a large e-commerce company
+
+### Background:
+- Noor keeps the lights on for everything behind the scenes—CI/CD, observability, and infra pipelines that support dev, data, and ML teams. If GitHub Actions break or a deployment stalls, he’s the one who gets the ping. He’s built a lot of Terraform and Argo stuff that’s now in use across his org, and he's always looking for cleaner, more secure ways to do things. He’s been lurking in OpenSSF repos but hasn’t yet made his first PR—just needs a nudge and some extra time between on-call rotations.
+
+### Goals:
+- Make infra boring—in a good way. Secure, predictable, and low-maintenance.
+- Replace glue scripts with reusable modules others can depend on.
+
+#### Personal
+- Be the go-to person for building things that don’t break at 2AM
+- Help others level up their automation game with built-in security
+
+#### Project
+- Contribute CI/CD security patterns others can drop into their pipelines
+- Share some of his team's GitHub Actions back upstream
+
+#### Company
+- Keep build and deploy systems fast and secure
+- Stay ahead of auditors and fire drills with solid infra hygiene
+
+### Challenges:
+- It’s hard to make time for upstream work when incidents eat the calendar
+- Every team uses slightly different infra—unifying them is a puzzle
+- IaC security best practices keep evolving—hard to keep pace
+- Tools often assume ideal cloud-native setups that don’t reflect legacy realities
+
+### How the OpenSSF can help:
+- Publish hardened CI/CD templates others like Noor can adapt quickly
+- Offer examples for GitHub Actions and Terraform that balance speed and safety
+- Support async-first contributions and starter tasks for infra engineers on the go
