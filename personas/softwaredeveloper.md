@@ -4,13 +4,14 @@
 
 ### Role: 
 - Staff Engineer at big tech company
-- 
+  
 ### Background: 
 - Mary writes open source software for a large tech firm. She has had both jobs focused on open source software as well as closed source software. She is responsible for maintaining a popular open source project. Her maintainer status on the project is not tied to her job, but she is paid by her company to work on the project.
-- 
+
+  
 ### Goals: 
 - Mary has multiple goals tied to herself personally, the project, and her job. For herself, she wants to not end up overloaded with work, and she wants to be seen as a good member of the open source community. For the OSS project she works on she wants it to be successful, popular, and it to be safe for use by the public and her company. For her company she wants to ensure that her work aligns with the goals of the company. She also wants to ensure that both her general open source work in the community as well as specific work on the project reflects well on the company.
-- 
+  
 #### Personal
 - Not to end up overloaded with work
 - Seen as a good member of the open source community
@@ -18,7 +19,7 @@
 - Wants it to be successful, popular and it to be safe for use by the public and her company.
 #### Company
 - Wants to ensure that both her general open source work in the community as well as specific work on the project reflects well on the company.
-- 
+  
 ### Challenges: 
 - It is difficult managing open source and company requirements especially if and when they conflict. Work planning is difficult since Mary deals both with internal company work but also deals with tickets coming from the community on her project. Mary needs to deal with unclear and fuzzy metrics compared to internal commercial work. This makes it more difficult for Mary to provide community adoption data, usage data, security data, etc. to both company stakeholders as well as other contributors and maintainers of the project. Mary is unable to use expensive commercial tools for performing common security tasks on the OSS projects like SCA, fuzzers, etc.
 - It is difficult managing open source and company requirements, especially if and when they conflict.
@@ -38,6 +39,8 @@
 - If the project is critical to the community it might fall under work Alpha-Omega is doing to secure critical projects 
 - The project can follow the various best practices, frameworks and standards coming out of OpenSSF like SLSA, and S2C2F.
 - All the benefits of utilizing dependencies that also are helped by the OpenSSF
+
+---
 
 ## Name: Ursula the Upstream Maintainer
 - Full or part-time oss dev, not affiliated with a commercial organization (or work is not related to such).
@@ -63,11 +66,14 @@
 - Ursula is worried about upcoming legal requirements that might require her to either abandon the side project or have to figure out how to perform expensive, in both time and money, security and compliance tasks.
 - Having time to devote to maintenance and updates is hard to find, especially large blocks of contiguous time.
 - Interpreting the complicated jargon presented in issues opened against her projects especially those that might be requesting improvements of security and compliance.
-- How the OpenSSF can help:
+
+### How the OpenSSF can help:
 - OpenSSF provides a lot of automated tools that make it easier for Ursula to just integrate into her Github, and build that enforce project security.
 - All the benefits of utilizing dependencies that also are helped by the OpenSSF
 - Provide an easy on-ramp to the foundation that helps lessen the resources needed to implement this tooling and practices.
 - OpenSSF needs to create things that are “easily consumable”: Merge requests / pull requests where practical, CONTRIBUTING guides, issue templates, “bite-sized” tasks (it’s easier to find time for many 15 minute tasks instead of an 8 hour block), “obviously right” solutions.
+
+---
 
 ## Name: Diana the Weekend Warrior
 
@@ -83,7 +89,7 @@
   
 ### Goals:
 - keep the project going and as maintained as possible, given constraints of budget, time, and resources.
-- 
+  
 ### Challenges:
 - Diana usually gets something like 2 hours per month to spend on FOSS. Sometimes up to 4h, sometimes less. 1 to 2h per month are dedicated to simply updating base dependencies. This is when it is just a few patches or minor versions. Sometimes up to 4 hours are taken for this. Sometimes a big major version in an important dependency happens and it takes us 10h to fix, over a quarter. This means that nearly all our time is spent handling dependency stuff. Basic stuff. Not security emergencies or anything like that. Releasing a new version that just is kept up to date basically.
 - Diana does not have more time to give. Life is what it is; they have family, a job, friends, etc.
@@ -96,12 +102,55 @@
 ### How the OpenSSF can help:
 - Build and update tools and toolchains to be more aligned to the realities of Diana's work.
 
+---
+
 ## Name: Stanislav the Student Maintainer
-- Part-time dev working on passion or school project.  Low-to-no resources.
 
+### Role:
+- Computer Science Student and part-time open source contributor
 
+### Background:
+- Stanislav started contributing to open source during his second year of university—first fixing typos, then writing patches, and eventually starting his own small CLI tool for machine learning model inspection. The project unexpectedly gained traction among other students and researchers. Now, he juggles coursework, internships, and maintaining his project, all while trying to keep up with the fast-moving world of secure software development. He’s interested in MLSecOps but finds much of the material intimidating or enterprise-focused.
 
-##### Name: Danika the Developer-Consumer
+### Goals:
+- Keep learning and get hands-on experience contributing to real-world tools
+- Make his project more secure and reliable as more people use it
+
+#### Personal
+- Graduate with strong open source contributions and a solid security mindset
+- Find mentors and grow his network in the open source space
+
+#### Project
+- Add basic security practices to his project (CI, license scans, etc.)
+- Respond to user issues and patch bugs without falling behind on studies
+
+#### University/Community
+- Be seen as someone who takes open source seriously
+- Share learnings with classmates who also want to contribute
+
+### Challenges:
+- Balancing studies, part-time work, and open source contributions is exhausting
+- Doesn’t have access to commercial tools or much infrastructure
+- Unsure where to start with security—what’s essential vs. overkill?
+- Documentation for secure software practices often assumes professional experience
+
+### How the OpenSSF can help:
+- Provide beginner-friendly templates and checklists for securing small OSS projects
+- Offer mentorship or office hours for students looking to contribute to OpenSSF projects
+- Curate a “student track” with issues, practices, and tools that are approachable
+- Highlight stories like Stanislav’s to encourage more student maintainers
+
+#### If contributing to OpenSSF project
+- Needs clearly scoped issues and examples with context
+- Prefers async collaboration and GitHub-first workflows
+
+#### If using OpenSSF tools
+- Wants easy-to-integrate GitHub Actions and config examples
+- Looking for tools that don’t require heavy setup or paid infrastructure
+
+---
+
+## Name: Danika the Developer-Consumer
 
 ###### Role: 
 - Software Engineer at Medium Sized Bank
@@ -123,4 +172,113 @@
 - This includes providing Danika with ammunition to help her push for change.
 - OpenSSF through its work in helping define or collaborate on controls, standards, best practices, and regulations can drive industry and community change that will eventually be adopted in larger, often slower moving, enterprises.
 
+---
 
+## Name: Allison the Solution Architect
+
+### Role:
+- Principal Software Architect at a cloud infrastructure company
+
+### Background:
+- Allison spends most of her time thinking about how all the parts of an ML system come together—APIs, data pipelines, models, cloud infrastructure, and everything in between. She doesn’t write a ton of code anymore, but she’s the person people go to when something needs to scale securely. She got involved with OpenSSF after realizing there just weren’t enough solid architectural patterns for secure ML systems. Now she tries to fit in upstream work between design reviews and meetings.
+
+### Goals:
+- Make ML system design more secure, not just more scalable
+- Share useful design patterns that others can reuse
+
+#### Personal
+- Be known as someone who builds systems that don’t fall over—or leak data
+- Help junior engineers think about security earlier
+
+#### Project
+- Align architecture with frameworks like SLSA and SAMM
+- Get more secure-by-design blueprints into the open
+
+#### Company
+- Prevent security issues by making the “right way” the easiest way
+- Show how open source can guide better vendor and platform choices
+
+### Challenges:
+- Security often gets added last, when it should’ve been there from the start
+- It’s hard to find ML-focused security patterns that work in real-world systems
+- There’s barely time to contribute back, even when she really wants to
+- Coordinating across security, ML, and product teams can be slow and bureaucratic
+
+### How the OpenSSF can help:
+- Run open design sessions where architects can share patterns and feedback
+- Keep a living repo of secure ML architecture examples
+- Support architects like Allison with async-friendly ways to contribute
+
+---
+
+## Name: Priya the AI/ML Engineer
+
+### Role:
+- ML Engineer at a retail tech company
+
+### Background:
+- Priya’s job is to take models from notebooks to production and make sure they actually run well. She works across data, ML, and backend teams to build pipelines that retrain models, monitor performance, and avoid production meltdowns. She came across OpenSSF while trying to figure out how to secure the way her team packages and deploys models—and ended up fixing a bug in an ML pipeline tool.
+
+### Goals:
+- Make sure ML systems are robust, monitored, and secure
+- Help others build better pipelines without reinventing the wheel
+
+#### Personal
+- Stay sharp across ML, DevOps, and security without burning out
+- Contribute upstream in ways that actually fit into her schedule
+
+#### Project
+- Add SLSA-level security checks to model training and packaging
+- Share examples from her work to help improve open tools
+
+#### Company
+- Speed up ML delivery without compromising on trust
+- Make model tracking and approval less of a mystery
+
+### Challenges:
+- Most security tools don’t understand ML workflows
+- Balancing production work and OSS contributions is tough
+- It’s not always clear what “secure ML” means in practice
+- Data, ML, and security teams speak different languages
+
+### How the OpenSSF can help:
+- Publish end-to-end secure ML pipeline templates
+- Provide tools that verify model integrity and provenance
+- Make it easier for people like Priya to contribute patches, not just ideas
+
+---
+
+## Name: Marcus the Test Engineer
+
+### Role:
+- Senior QA Engineer at a medtech company
+
+### Background:
+- Marcus leads testing for systems where bugs could literally be life-or-death. He’s used to writing automated tests, tracking code coverage, and validating APIs. When ML got added into the mix, everything got more complicated—suddenly outputs were probabilistic, test cases weren’t obvious, and performance varied by input distribution. He’s poked around OpenSSF’s testing projects, hoping to find something he could use or contribute to for ML testing.
+
+### Goals:
+- Build reliable tests for ML components, not just code
+- Help shape how the industry thinks about testing ML systems
+
+#### Personal
+- Learn more about adversarial testing and model behavior validation
+- Share what’s working with other QA teams doing the same
+
+#### Project
+- Add ML test cases to existing CI pipelines
+- Get fuzzing and stress tests running against production models
+
+#### Company
+- Improve ML coverage so nothing slips through the cracks
+- Catch model regressions before they hit production
+
+### Challenges:
+- Testing ML isn’t like testing code—outputs aren’t always predictable
+- There’s no standard for what ML test coverage even means
+- Compliance teams want evidence, but ML test artifacts aren’t built for that
+- Most QA tools don’t work well with ML model interfaces
+
+### How the OpenSSF can help:
+- Offer example test suites and CI configs for ML models
+- Create a shared baseline for ML testing best practices
+- Help QA folks contribute feedback, test cases, and issues—not just code
