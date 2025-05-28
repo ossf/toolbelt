@@ -5,7 +5,7 @@
 - Software Developer/Maintainer - I am a developer, contributor, or maintainer of open source software
 - Open Source Professional - I am a consumer of open source software directly/indirectly for an organization
 - Security Engineer - I am a Hacker, Security Researcher, Academic, Bug Bounty Hunter, Concerned Software Enthusist that looks at the security of open source software
-- Infrastructure and Platform Engineer - I maintain and secure the infrastructure that powers open source and enterprise software—from CI/CD pipelines and cloud infrastructure to developer environments and ML pipelines. I make sure systems are scalable, secure, and observable.
+- Infrastructure and Platform Engineer - I build and maintain and secure the infrastructure that powers open source and enterprise software—from CI/CD pipelines and cloud infrastructure to developer environments and ML pipelines. I make sure systems are scalable, secure, and observable.
 - Data Operations Practitioner - I build secure, high-quality data pipelines and models that are production-ready and privacy-compliant.
 - Executive/C-Suite - I am a leader within an organization that ingests or contributes to open source software
 - Product Marketing &  Community Engagement - I am responsible for the messaging of our products and services and engagement within upstream communities
@@ -29,14 +29,14 @@
 - *Most Valuable Resources*: Tech talks, working groups, policy summits.
 - *Common Challenges*: Need clearer enterprise-facing communications on security tool adoption and compliance.
 - *Improvement Suggestions*: More beginner-friendly contribution pathways, enhanced documentation, and mentorship.
-- *Sub Personas*: Corporate Carl, [Finn the Finder](https://github.com/ossf/toolbelt/blob/main/personas/securityengineer.md#name-finn-the-finder), Aabha the Academic, Helle Huntress
+- *Sub Personas*: Corporate Carl, [Finn the Finder], Aabha the Academic, Helle Huntress, [Yasmine the Security Governance Lead](https://github.com/BahaaShammary/toolbelt/blob/security-readme/personas/infrastructureandplatformengineer.md#name-yasmine-the-security-governance-lead),(https://github.com/ossf/toolbelt/blob/main/personas/securityengineer.md#name-finn-the-finder), Boyd the Product Security Engineer
 
 ## Infrastructure/Platform Engineer
 - **Primary Motivation:** Ensuring reliable, scalable, and secure systems that support modern software and ML workloads.
 - **Most Valuable Resources:** Infrastructure templates, GitHub Actions, hardening guides, secure-by-default reference architectures.
 - **Common Challenges:** Staying ahead of rapidly evolving tooling, enforcing policy across decentralized teams, aligning with both compliance and engineering needs.
 - **Improvement Suggestions:** Clearer integration paths for secure infrastructure tooling, best practice patterns for MLOps/DevOps pipelines, and more plug-and-play OSS modules.
-- **Sub Personas:** [Noor the Backend Infrastructure Engineer](https://github.com/BahaaShammary/toolbelt/blob/security-readme/personas/infrastructureandplatformengineer.md#name-noor-the-backend-infrastructure-engineer), [Yasmine the Security Governance Lead](https://github.com/BahaaShammary/toolbelt/blob/security-readme/personas/infrastructureandplatformengineer.md#name-yasmine-the-security-governance-lead), [Ravi the Cloud Platform Admin](https://github.com/BahaaShammary/toolbelt/blob/security-readme/personas/infrastructureandplatformengineer.md#name-ravi-the-cloud-platform-admin)
+- **Sub Personas:** [Noor the Backend Infrastructure Engineer](https://github.com/BahaaShammary/toolbelt/blob/security-readme/personas/infrastructureandplatformengineer.md#name-noor-the-backend-infrastructure-engineer), [Ravi the Cloud Platform Admin](https://github.com/BahaaShammary/toolbelt/blob/security-readme/personas/infrastructureandplatformengineer.md#name-ravi-the-cloud-platform-admin), Ophelia the IT Infrastructure Engineer
 
  ## Data Operations Practitioner
 - *Primary Motivation*: Build secure, high-quality data pipelines and models that are production-ready and privacy-compliant.
