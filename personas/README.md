@@ -29,7 +29,7 @@
 - *Most Valuable Resources*: Tech talks, working groups, policy summits.
 - *Common Challenges*: Need clearer enterprise-facing communications on security tool adoption and compliance.
 - *Improvement Suggestions*: More beginner-friendly contribution pathways, enhanced documentation, and mentorship.
-- *Sub Personas*: Corporate Carl, [Finn the Finder](https://github.com/ossf/toolbelt/blob/main/personas/infrastructureandplatformengineer.md#name-yasmine-the-security-governance-lead), Aabha the Academic, Helle Huntress, [Yasmine the Security Governance Lead],(https://github.com/ossf/toolbelt/blob/main/personas/securityengineer.md#name-finn-the-finder), [Boyd the Product Security Engineer](https://github.com/ossf/toolbelt/blob/main/personas/securityengineer.md#name-boyd-the-product-security-engineer)
+- *Sub Personas*: Corporate Carl, [Finn the Finder](https://github.com/ossf/toolbelt/blob/main/personas/securityengineer.md#name-finn-the-finder), Aabha the Academic, Helle Huntress, [Yasmine the Security Governance Lead](https://github.com/ossf/toolbelt/blob/main/personas/infrastructureandplatformengineer.md#name-yasmine-the-security-governance-lead), [Boyd the Product Security Engineer](https://github.com/ossf/toolbelt/blob/main/personas/securityengineer.md#name-boyd-the-product-security-engineer)
 
 ## Infrastructure/Platform Engineer
 - **Primary Motivation:** Ensuring reliable, scalable, and secure systems that support modern software and ML workloads.
