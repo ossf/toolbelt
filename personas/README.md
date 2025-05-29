@@ -36,7 +36,7 @@
 - **Most Valuable Resources:** Infrastructure templates, GitHub Actions, hardening guides, secure-by-default reference architectures.
 - **Common Challenges:** Staying ahead of rapidly evolving tooling, enforcing policy across decentralized teams, aligning with both compliance and engineering needs.
 - **Improvement Suggestions:** Clearer integration paths for secure infrastructure tooling, best practice patterns for MLOps/DevOps pipelines, and more plug-and-play OSS modules.
-- **Sub Personas:** [Noor the Backend Infrastructure Engineer](https://github.com/ossf/toolbelt/blob/main/personas/infrastructureandplatformengineer.md#name-noor-the-backend-infrastructure-engineer), [Ravi the Cloud Platform Admin](https://github.com/ossf/toolbelt/blob/main/personas/infrastructureandplatformengineer.md#name-ravi-the-cloud-platform-admin), [Ophelia the IT Infrastructure Engineer](https://github.com/ossf/toolbelt/blob/main/personas/infrastructureandplatformengineer.md#name-ophelia-the-it-infrastructure-engineer)
+- **Sub Personas:** [Ravi the Cloud Platform Admin](https://github.com/ossf/toolbelt/blob/main/personas/infrastructureandplatformengineer.md#name-ravi-the-cloud-platform-admin), [Ophelia the IT Infrastructure Engineer](https://github.com/ossf/toolbelt/blob/main/personas/infrastructureandplatformengineer.md#name-ophelia-the-it-infrastructure-engineer)
 
  ## Data Operations Practitioner
 - *Primary Motivation*: Build secure, high-quality data pipelines and models that are production-ready and privacy-compliant.
