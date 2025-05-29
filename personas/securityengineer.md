@@ -42,3 +42,95 @@
 - Incentivize open source projects/maintainers to close vulnerabilities. How can we offset the burden a disclosed vulnerability brings to an open source project/maintainer 
    Possibly Track  Mean Time to Remediate (MTTR) metrics tracked for “found” vulnerabilities and disclose the MTTR metric in security scorecard. There is nuance with CVEs, and effort can be expensive.
 - Consumers of software can make automated decisions using the RISK metrics (built on security scorecard metrics) to understand open source projects that address “found” vulnerabilities in a timely manner (timely being a consumer's risk tolerance for using open source software with various MTTR).
+
+---
+
+## Name: Boyd the Product Security Engineer
+
+### Role:
+
+* Security champion
+* Product Security Engineer embedded in an engineering team
+* Ensures good security controls are in place on the products (e.g. vulnerability remediation)
+
+### Background:
+
+Boyd works at a large software enterprise where he sits directly with development teams to help "shift left" on security. Boyd has a lot of experience in secure SDLC, security standards, and controls. He doesn't write code that much, but, he’s very familiar with CI/CD pipelines, SAST/DAST tools, and dev tooling integrations. Boyd sees himself as the bridge between security policy and practical engineering constraints.
+
+His role includes reviewing design documentation, running security assessments, and ensuring controls like authentication, access control, data protection, and vulnerability remediation are built into product roadmaps. He’s actively exploring how open source tools—especially from OpenSSF—can help embed security automation in his teams' pipelines.
+
+### Goals:
+
+* Catch vulnerabilities and design flaws early, before they hit production
+* Reduce friction by making security part of existing engineering workflows
+* Empower dev teams with self-service security tools and guardrails
+
+#### Personal
+
+* Aims to build credibility as a trusted security advisor within engineering
+* Likes to stay current on emerging OSS security tooling and secure development patterns
+
+#### Project
+
+* Bake security requirements into product backlogs from day one
+* Introduce threat modelling and dependency scanning in early sprints
+
+#### Organization
+
+* Reduce security incident frequency and remediation costs
+* Align with compliance frameworks like ISO
+* Drive adoption of open source security tooling across product teams
+
+### Challenges:
+
+* Dev teams tend to view security as overhead unless it’s tightly integrated
+* Vulnerability remediation is often reactive, not proactive
+* Hard to get org-wide visibility on open source usage and supply chain risk
+* Tooling overload: multiple vendors, fragmented OSS solutions
+
+### How the OpenSSF can help:
+
+* Highlight security standards (e.g., SLSA, SAMM) that map to Boyd’s compliance needs
+
+* Build integrations with common CI/CD systems so enforcement is baked in
+
+* Create case studies showing how product security engineers like Boyd can operationalize OpenSSF tooling at scale
+
+* Participate in working groups that blend AppSec, DevSecOps, and OSS security best practices
+
+---
+
+## Name: Yasmine the Security Governance Lead
+
+### Role:
+- Security Policy Lead at an international research institute
+
+### Background:
+- Yasmine bridges the world of policy and engineering. She’s the one defining what “secure enough” means for dev environments, tools, and internal infra. She collaborates across compliance, security, and platform teams to keep things aligned and reduce risk without crushing velocity. Yasmine’s been watching OpenSSF’s policy and best practices work closely—and would love to contribute when she can.
+
+### Goals:
+- Make it easier for teams to do the right thing without friction
+- Align internal policy with what the best OSS projects are already doing
+
+#### Personal
+- Champion security in a way that earns trust, not groans
+- Create templates and playbooks that actually get used
+
+#### Project
+- Publish hardened environment baselines her org can reuse
+- Get policy-as-code adopted beyond the security team
+
+#### Organization
+- Keep audits smooth and security posture strong
+- Roll out consistent controls across globally distributed teams
+
+### Challenges:
+- Developers push back on policies they see as slowing them down
+- Policy-as-code is powerful but not adopted enough
+
+### How the OpenSSF can help:
+- Share reusable policy templates for securing dev environments and tooling
+- Highlight projects that ship with secure defaults
+- Build bridges between governance pros across orgs to share real-world insights
+
+---
