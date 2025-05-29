@@ -98,3 +98,39 @@ His role includes reviewing design documentation, running security assessments, 
 
 * Participate in working groups that blend AppSec, DevSecOps, and OSS security best practices
 
+---
+
+## Name: Yasmine the Security Governance Lead
+
+### Role:
+- Security Policy Lead at an international research institute
+
+### Background:
+- Yasmine bridges the world of policy and engineering. She’s the one defining what “secure enough” means for dev environments, tools, and internal infra. She collaborates across compliance, security, and platform teams to keep things aligned and reduce risk without crushing velocity. Yasmine’s been watching OpenSSF’s policy and best practices work closely—and would love to contribute when she can.
+
+### Goals:
+- Make it easier for teams to do the right thing without friction
+- Align internal policy with what the best OSS projects are already doing
+
+#### Personal
+- Champion security in a way that earns trust, not groans
+- Create templates and playbooks that actually get used
+
+#### Project
+- Publish hardened environment baselines her org can reuse
+- Get policy-as-code adopted beyond the security team
+
+#### Organization
+- Keep audits smooth and security posture strong
+- Roll out consistent controls across globally distributed teams
+
+### Challenges:
+- Developers push back on policies they see as slowing them down
+- Policy-as-code is powerful but not adopted enough
+
+### How the OpenSSF can help:
+- Share reusable policy templates for securing dev environments and tooling
+- Highlight projects that ship with secure defaults
+- Build bridges between governance pros across orgs to share real-world insights
+
+---
