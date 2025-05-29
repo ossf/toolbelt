@@ -3,7 +3,7 @@
 ## Name: Ravi the Cloud Platform Admin
 
 ### Role:
-- DevOps/SRE Engineer running a multi-cloud ML platform
+- Cloud Platform Admin running a multi-cloud ML platform
 
 ### Background:
 - Ravi sets up and secures cloud infra for teams running data pipelines, training jobs, and production ML APIs. He’s got Terraform scripts, Helm charts, and just enough shell scripts to make it all work. Most of the time, he’s helping data scientists not accidentally expose credentials or exceed budget. He’s been using OpenSSF tools quietly to check dependencies and is thinking about upstreaming some hardened container images his team built.
@@ -37,7 +37,7 @@
 ## Name: Ophelia the IT Infrastructure Engineer
 
 ### Role:
-- Platform Reliability Engineer at a large e-commerce company
+- IT Infrastructure Engineer at a large e-commerce company
 
 ### Background:
 - Ophelia keeps the lights on for everything behind the scenes in terms of tools, observability, and infrastructure that supports dev, data, and ML teams. If GitHub Actions break or a deployment stalls, she’s the one who gets the ping. She’s built a lot of Terraform and Argo workflows that are now used across her org, and she's always on the lookout for cleaner, more secure ways to do things. She’s been quietly exploring OpenSSF repos, and just needs a nudge (and some time between on-call shifts) to make her first upstream contribution.
