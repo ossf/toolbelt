@@ -174,7 +174,7 @@
 
 ---
 
-## Name: Allison the Solution Architect
+## Name: Sachiko the Solution Architect
 
 ### Role:
 - Principal Software Architect at a cloud infrastructure company
