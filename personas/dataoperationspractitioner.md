@@ -47,13 +47,13 @@
  
 ---
 
-## Name: Susan the Data Engineer
+## Name: Dibby the Data Engineer
 
 ### Role:
 - Senior Data Platform Engineer at a financial institution
 
 ### Background:
-- Susan manages large-scale data pipelines using Spark, Airflow, and custom ingestion services. She works closely with data scientists and analysts to ensure reliable delivery of datasets for ML and BI. Recently, she began contributing to an OpenSSF working group focused on securing data pipelines. Juggling this with internal compliance obligations and technical debt has been challenging, but she’s driven by the desire to help modernize how data infrastructure supports secure ML.
+- Dibby manages large-scale data pipelines using Spark, Airflow, and custom ingestion services. She works closely with data scientists and analysts to ensure reliable delivery of datasets for ML and BI. Recently, she began contributing to an OpenSSF working group focused on securing data pipelines. Juggling this with internal compliance obligations and technical debt has been challenging, but she’s driven by the desire to help modernize how data infrastructure supports secure ML.
 
 ### Goals:
 - Improve pipeline observability and introduce security checks at ingestion points
@@ -94,13 +94,13 @@
 
 ---
 
-## Name: Noura the Data Governance Analyst
+## Name: Grear GRC (Data Governance Analyst)
 
 ### Role:
 - Data Privacy and Compliance Lead in a government agency
 
 ### Background:
-- Noura ensures that data used in analytics and ML respects privacy regulations and internal policies. She’s responsible for approvals, classification, and tracking lineage. Her technical knowledge is moderate, but her role is critical in assessing risk and enabling compliance.
+- Grear ensures that data used in analytics and ML respects privacy regulations and internal policies. She’s responsible for approvals, classification, and tracking lineage. Her technical knowledge is moderate, but her role is critical in assessing risk and enabling compliance.
 
 ### Goals:
 - Prevent use of unapproved or sensitive data in ML systems
