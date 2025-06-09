@@ -248,13 +248,13 @@
 
 ---
 
-## Name: Marcus the Test Engineer
+## Name: Timmy the Test Engineer
 
 ### Role:
 - Senior QA Engineer at a medtech company
 
 ### Background:
-- Marcus leads testing for systems where bugs could literally be life-or-death. He’s used to writing automated tests, tracking code coverage, and validating APIs. When ML got added into the mix, everything got more complicated—suddenly outputs were probabilistic, test cases weren’t obvious, and performance varied by input distribution. He’s poked around OpenSSF’s testing projects, hoping to find something he could use or contribute to for ML testing.
+- Timmy leads testing for systems where bugs could literally be life-or-death. He’s used to writing automated tests, tracking code coverage, and validating APIs. When ML got added into the mix, everything got more complicated—suddenly outputs were probabilistic, test cases weren’t obvious, and performance varied by input distribution. He’s poked around OpenSSF’s testing projects, hoping to find something he could use or contribute to for ML testing.
 
 ### Goals:
 - Build reliable tests for ML components, not just code
