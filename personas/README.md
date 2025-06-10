@@ -8,28 +8,28 @@
 - Executive/C-Suite - I am a leader within an organization that ingests or contributes to open source software
 - Product Marketing &  Community Engagement - I am responsible for the messaging of our products and services and engagement within upstream communities
 
-## Software Developer/Maintainer
+## Software Developer/Maintainer (Upstream maintainer, downstream contributor, Solution architect, Software engineer, AIML Engineer, MLOps Engineer, Data Scientist, Test Engineer, DevOps Engineer etc.)
 - *Primary Motivation*: Technical growth, contributing to security projects.
 - *Most Valuable Resources*: Hands-on projects, contributor guides, GitHub issues.
 - *Common Challenges*: Onboarding to projects, finding clear "good first issues."
 - *Improvement Suggestions*: More beginner-friendly contribution pathways, enhanced documentation, and mentorship.
 - *Sub Personas*: [Ursula the Upstream Maintainer](https://github.com/ossf/toolbelt/blob/main/personas/softwaredeveloper.md#name-ursula-the-upstream-maintainer), [Diana the Weekend Warrior](https://github.com/ossf/toolbelt/blob/main/personas/softwaredeveloper.md#name-diana-the-weekend-warrior), [Debbie the Downstream Contributor](https://github.com/ossf/toolbelt/blob/main/personas/softwaredeveloper.md#name-debbie-the-downstream-contributor), [Stansilav the Student](https://github.com/ossf/toolbelt/blob/main/personas/softwaredeveloper.md#name-stanislav-the-student-maintainer), [Sachiko the Solutions Architect](https://github.com/ossf/toolbelt/blob/main/personas/softwaredeveloper.md#name-allison-the-solution-architect), [Allison the AI/ML Engineer](https://github.com/ossf/toolbelt/blob/main/personas/softwaredeveloper.md#name-priya-the-aiml-engineer), [Timmy the Test Engineer](https://github.com/ossf/toolbelt/blob/main/personas/softwaredeveloper.md#name-marcus-the-test-engineer), [Daniel the Data Scientist](https://github.com/ossf/toolbelt/blob/main/personas/dataoperationspractitioner.md#name-daniel-the-data-scientist), 
 
-## Open Source Professional (OSPO Lead, VP of Open Source, etc.)
+## Open Source Professional (OSPO Lead, VP of Open Source, Cloud Platform Admin, IT Infra Engineer, SRE, Data Engineer, Data Governance Analyst, etc.)
 - *Primary Motivation*: Networking, collaboration, and enterprise engagement.
 - *Most Valuable Resources*: Policy summits, case studies, OpenSSF Security Baseline, OpenSSF Scorecard.
 - *Common Challenges*: Need better integration with other Linux Foundation projects.
 - *Improvement Suggestions*: Strengthen cross-project engagement and enterprise adoption messaging.
 - *Sub Personas*: Olga OSPO, Eoin IR, Thais the 3rd party vendor manager, Regulated Ragnar, [Dibby the Data Engineer](https://github.com/ossf/toolbelt/blob/main/personas/dataoperationspractitioner.md#name-susan-the-data-engineer), [Chinmay the Cloud Platform Admin](https://github.com/ossf/toolbelt/blob/main/personas/infrastructureandplatformengineer.md#name-ravi-the-cloud-platform-admin), [Ophelia IT (Infrastructure Engineer)](https://github.com/ossf/toolbelt/blob/main/personas/infrastructureandplatformengineer.md#name-ophelia-the-it-infrastructure-engineer)
 
-## Security Engineer (Program Manager, Researcher, or Architect)
+## Security Engineer (Program Manager, Researcher, Architect, GRC, PSIRT, Product Security Engineer, Security Practioner, etc.)
 - *Primary Motivation*: Finding security solutions, contributing to open source security.
 - *Most Valuable Resources*: Tech talks, working groups, policy summits.
 - *Common Challenges*: Need clearer enterprise-facing communications on security tool adoption and compliance.
 - *Improvement Suggestions*: More beginner-friendly contribution pathways, enhanced documentation, and mentorship.
 - *Sub Personas*: Corporate Carl, [Finn the Finder](https://github.com/ossf/toolbelt/blob/main/personas/securityengineer.md#name-finn-the-finder), Aabha the Academic, Helle Huntress, [Guinevere GRC (Security Governance Lead](https://github.com/ossf/toolbelt/blob/main/personas/infrastructureandplatformengineer.md#name-yasmine-the-security-governance-lead), [Pang the Product Security Engineer](https://github.com/ossf/toolbelt/blob/main/personas/securityengineer.md#name-boyd-the-product-security-engineer)
 
-##  Executive / C-Suite (CEO, CTO, CISO, etc.)
+##  Executive / C-Suite (CEO, CTO, CISO, CDO, CAIO, etc.)
 - *Primary Motivation*: Networking, collaboration, and enterprise engagement.
 - *Most Valuable Resources*: Policy summits, case studies, OpenSSF Securty Baseline.
 - *Common Challenges*:  Need better integration with other Linux Foundation projects.
