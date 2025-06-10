@@ -180,7 +180,7 @@
 - Principal Software Architect at a cloud infrastructure company
 
 ### Background:
-- Allison spends most of her time thinking about how all the parts of an ML system come together—APIs, data pipelines, models, cloud infrastructure, and everything in between. She doesn’t write a ton of code anymore, but she’s the person people go to when something needs to scale securely. She got involved with OpenSSF after realizing there just weren’t enough solid architectural patterns for secure ML systems. Now she tries to fit in upstream work between design reviews and meetings.
+- Sachiko spends most of her time thinking about how all the parts of an ML system come together—APIs, data pipelines, models, cloud infrastructure, and everything in between. She doesn’t write a ton of code anymore, but she’s the person people go to when something needs to scale securely. She got involved with OpenSSF after realizing there just weren’t enough solid architectural patterns for secure ML systems. Now she tries to fit in upstream work between design reviews and meetings.
 
 ### Goals:
 - Make ML system design more secure, not just more scalable
@@ -211,13 +211,13 @@
 
 ---
 
-## Name: Priya the AI/ML Engineer
+## Name: Allison the AI/ML Engineer
 
 ### Role:
 - ML Engineer at a retail tech company
 
 ### Background:
-- Priya’s job is to take models from notebooks to production and make sure they actually run well. She works across data, ML, and backend teams to build pipelines that retrain models, monitor performance, and avoid production meltdowns. She came across OpenSSF while trying to figure out how to secure the way her team packages and deploys models—and ended up fixing a bug in an ML pipeline tool.
+- Allison’s job is to take models from notebooks to production and make sure they actually run well. She works across data, ML, and backend teams to build pipelines that retrain models, monitor performance, and avoid production meltdowns. She came across OpenSSF while trying to figure out how to secure the way her team packages and deploys models—and ended up fixing a bug in an ML pipeline tool.
 
 ### Goals:
 - Make sure ML systems are robust, monitored, and secure
