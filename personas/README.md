@@ -5,8 +5,6 @@
 - Software Developer/Maintainer - I am a developer, contributor, or maintainer of open source software
 - Open Source Professional - I am a consumer of open source software directly/indirectly for an organization
 - Security Engineer - I am a Hacker, Security Researcher, Academic, Bug Bounty Hunter, Concerned Software Enthusist that looks at the security of open source software
-- Infrastructure and Platform Engineer - I build and maintain and secure the infrastructure that powers open source and enterprise software—from CI/CD pipelines and cloud infrastructure to developer environments and ML pipelines. I make sure systems are scalable, secure, and observable.
-- Data Operations Practitioner - I build secure, high-quality data pipelines and models that are production-ready and privacy-compliant.
 - Executive/C-Suite - I am a leader within an organization that ingests or contributes to open source software
 - Product Marketing &  Community Engagement - I am responsible for the messaging of our products and services and engagement within upstream communities
 
@@ -22,7 +20,7 @@
 - *Most Valuable Resources*: Policy summits, case studies, OpenSSF Security Baseline, OpenSSF Scorecard.
 - *Common Challenges*: Need better integration with other Linux Foundation projects.
 - *Improvement Suggestions*: Strengthen cross-project engagement and enterprise adoption messaging.
-- *Sub Personas*: Olga OSPO, Eoin IR, Thais the 3rd party vendor manager, Regulated Ragnar, [Dibby the Data Engineer](https://github.com/ossf/toolbelt/blob/main/personas/dataoperationspractitioner.md#name-susan-the-data-engineer), Chinmay the Cloud Platform Admin](https://github.com/ossf/toolbelt/blob/main/personas/infrastructureandplatformengineer.md#name-ravi-the-cloud-platform-admin), [Ophelia IT (Infrastructure Engineer)](https://github.com/ossf/toolbelt/blob/main/personas/infrastructureandplatformengineer.md#name-ophelia-the-it-infrastructure-engineer)
+- *Sub Personas*: Olga OSPO, Eoin IR, Thais the 3rd party vendor manager, Regulated Ragnar, [Dibby the Data Engineer](https://github.com/ossf/toolbelt/blob/main/personas/dataoperationspractitioner.md#name-susan-the-data-engineer), [Chinmay the Cloud Platform Admin](https://github.com/ossf/toolbelt/blob/main/personas/infrastructureandplatformengineer.md#name-ravi-the-cloud-platform-admin), [Ophelia IT (Infrastructure Engineer)](https://github.com/ossf/toolbelt/blob/main/personas/infrastructureandplatformengineer.md#name-ophelia-the-it-infrastructure-engineer)
 
 ## Security Engineer (Program Manager, Researcher, or Architect)
 - *Primary Motivation*: Finding security solutions, contributing to open source security.
@@ -45,7 +43,7 @@
 - *Improvement Suggestions*: More marketing content, storytelling, and partnerships with media platforms.
 - *Sub Personas*: Pricilla PR, Calipso the Community Manager
 
-When looking at the specific ara of AI/ML development, it can be useful to regroup these personas into structures that more closely mirror the practictioners' organizations. 
+When looking at the specific area of AI/ML development, it can be useful to also regroup these subpersonas into structures that more closely mirror the practictioners' organizations. 
 
 ## Infrastructure/Platform Engineer
 - **Primary Motivation:** Ensuring reliable, scalable, and secure systems that support modern software and ML workloads.
