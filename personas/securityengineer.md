@@ -45,7 +45,7 @@
 
 ---
 
-## Name: Boyd the Product Security Engineer
+## Name: Pang the Product Security Engineer
 
 ### Role:
 
@@ -55,7 +55,7 @@
 
 ### Background:
 
-Boyd works at a large software enterprise where he sits directly with development teams to help "shift left" on security. Boyd has a lot of experience in secure SDLC, security standards, and controls. He doesn't write code that much, but, he’s very familiar with CI/CD pipelines, SAST/DAST tools, and dev tooling integrations. Boyd sees himself as the bridge between security policy and practical engineering constraints.
+Pang works at a large software enterprise where he sits directly with development teams to help "shift left" on security. Boyd has a lot of experience in secure SDLC, security standards, and controls. He doesn't write code that much, but, he’s very familiar with CI/CD pipelines, SAST/DAST tools, and dev tooling integrations. Boyd sees himself as the bridge between security policy and practical engineering constraints.
 
 His role includes reviewing design documentation, running security assessments, and ensuring controls like authentication, access control, data protection, and vulnerability remediation are built into product roadmaps. He’s actively exploring how open source tools—especially from OpenSSF—can help embed security automation in his teams' pipelines.
 
@@ -100,13 +100,13 @@ His role includes reviewing design documentation, running security assessments, 
 
 ---
 
-## Name: Yasmine the Security Governance Lead
+## Name: Guinevere GRC (Security Governance Lead)
 
 ### Role:
 - Security Policy Lead at an international research institute
 
 ### Background:
-- Yasmine bridges the world of policy and engineering. She’s the one defining what “secure enough” means for dev environments, tools, and internal infra. She collaborates across compliance, security, and platform teams to keep things aligned and reduce risk without crushing velocity. Yasmine’s been watching OpenSSF’s policy and best practices work closely—and would love to contribute when she can.
+- Guinevere bridges the world of policy and engineering. She’s the one defining what “secure enough” means for dev environments, tools, and internal infra. She collaborates across compliance, security, and platform teams to keep things aligned and reduce risk without crushing velocity. Yasmine’s been watching OpenSSF’s policy and best practices work closely—and would love to contribute when she can.
 
 ### Goals:
 - Make it easier for teams to do the right thing without friction
