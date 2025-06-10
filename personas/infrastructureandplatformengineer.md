@@ -1,12 +1,12 @@
 # Infrastructure/Platform Engineer Personas
 
-## Name: Ravi the Cloud Platform Admin
+## Name: Chinmay the Cloud Platform Admin
 
 ### Role:
 - Cloud Platform Admin running a multi-cloud ML platform
 
 ### Background:
-- Ravi sets up and secures cloud infra for teams running data pipelines, training jobs, and production ML APIs. He’s got Terraform scripts, Helm charts, and just enough shell scripts to make it all work. Most of the time, he’s helping data scientists not accidentally expose credentials or exceed budget. He’s been using OpenSSF tools quietly to check dependencies and is thinking about upstreaming some hardened container images his team built.
+- Chinmay sets up and secures cloud infra for teams running data pipelines, training jobs, and production ML APIs. He’s got Terraform scripts, Helm charts, and just enough shell scripts to make it all work. Most of the time, he’s helping data scientists not accidentally expose credentials or exceed budget. He’s been using OpenSSF tools quietly to check dependencies and is thinking about upstreaming some hardened container images his team built.
 
 ### Goals:
 - Make the platform secure so users don’t have to think about it
@@ -34,7 +34,7 @@
 - Curate OSS components that meet basic security criteria and are actively maintained
 
 ---
-## Name: Ophelia the IT Infrastructure Engineer
+## Name: Ophelia IT (Infrastructure Engineer)
 
 ### Role:
 - IT Infrastructure Engineer at a large e-commerce company
