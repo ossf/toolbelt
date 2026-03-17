@@ -49,3 +49,6 @@ Decide who will go first (e.g. the last person to have a PR merged) and alternat
 The Incidents and Vulnerabilities are available for either party to claim after a card has been attacked/defended if they illustrate either the attack being carried out or if the technique/TI would help defend against it.
 Claim any cards “won” into a pile.  At the end of the game, each card will equal one point.
 Whomever has the most points claims victory and the accolades of all observers.
+
+
+Source gdoc where we'll be copying over formatting & graphics from: https://docs.google.com/document/d/1ZfkedypZAAtvv3Clpo0USF9jgfmS-fWjxr0PctgdSeU/edit?tab=t.0
