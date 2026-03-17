@@ -1,6 +1,6 @@
 # Technical Charter for Open Source Security Foundation
 
-[CSecurity Toolbelt| Technical Initiative]
+[Security Toolbelt | Technical Initiative]
 
 Adopted [DATE]
 
