@@ -51,6 +51,10 @@ Claim any cards “won” into a pile.  At the end of the game, each card will e
 Whomever has the most points claims victory and the accolades of all observers.
 
 # Source file
-Source gdoc where we'll be copying over formatting & graphics from: https://docs.google.com/document/d/1ZfkedypZAAtvv3Clpo0USF9jgfmS-fWjxr0PctgdSeU/
+Source gdoc for the rules where we'll be copying over formatting & graphics from: https://docs.google.com/document/d/1ZfkedypZAAtvv3Clpo0USF9jgfmS-fWjxr0PctgdSeU/
+Source gdoc file for the card matrix - https://docs.google.com/spreadsheets/d/1onB1-5XMpWxcLdpMzY9JP3gCN280-ZHUQBv-qcgMkCo/
+Source repo for the artwork - https://github.com/ossf/artwork/tree/main/cardgame
+
+
 
 
