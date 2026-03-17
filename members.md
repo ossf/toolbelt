@@ -54,6 +54,4 @@ If you think a contributor is missing - including yourself - please contact the 
 - [Steve Taylor, Deployhub/Ortelius/Pyrsia](https://github.com/novosmt)
 - [Tom Hennen, Google](https://github.com/TomHennen)
 - [Tracy Ragan, Deployhub/Ortelius/CDEvents](https://github.com/TracyRagan)
-    
-### Project Contributors
 
