@@ -50,5 +50,7 @@ The Incidents and Vulnerabilities are available for either party to claim after 
 Claim any cards “won” into a pile.  At the end of the game, each card will equal one point.
 Whomever has the most points claims victory and the accolades of all observers.
 
+# Source file
+Source gdoc where we'll be copying over formatting & graphics from: https://docs.google.com/document/d/1ZfkedypZAAtvv3Clpo0USF9jgfmS-fWjxr0PctgdSeU/
 
-Source gdoc where we'll be copying over formatting & graphics from: https://docs.google.com/document/d/1ZfkedypZAAtvv3Clpo0USF9jgfmS-fWjxr0PctgdSeU/edit?tab=t.0
+
