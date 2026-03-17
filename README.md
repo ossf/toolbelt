@@ -53,16 +53,17 @@ Original working [document](https://docs.google.com/document/d/1k-0ReRSXEOIT8FRV
   
 ## Current Efforts
 
-The group is developing a list of 
-- [capabilities](https://docs.google.com/document/d/1DtSaj2avvKCdXLcWu6W4-Np7uKVizLCTmI0KWxqVitE/edit)
-- [use cases](https://docs.google.com/document/d/10oFJrMcIkKb0X7Bw1EwrN1w_wbyVUj0EAUswXMp73lQ/edit#heading=h.pmnr72fd8v8b)
-- [threats](https://docs.google.com/document/d/1RG4_JeUWlx1AMHh6XAhEuVhyoaYqfiBSr789HTnSVEM/edit#heading=h.p2mmdnf7yli9) and
-- [patterns]()
-- [Security Architectural Principles]()
+The group is developing:
+- [Security Reference Architecture](https://github.com/ossf/toolbelt/tree/main/SecRefArch) and associated artifacts
+- [Security Architectural Principles](https://github.com/ossf/toolbelt/tree/main/principles)
 
 ## Prior Work
 
 - [Sterling Toolchain Concept](https://docs.google.com/document/d/1z4YxuT6yzbgrNlUpgTbJhuKv5ngdsd6O8Dz5yRTepgs/edit#)
+- [capabilities](https://docs.google.com/document/d/1DtSaj2avvKCdXLcWu6W4-Np7uKVizLCTmI0KWxqVitE/edit)
+- [use cases](https://docs.google.com/document/d/10oFJrMcIkKb0X7Bw1EwrN1w_wbyVUj0EAUswXMp73lQ/edit#heading=h.pmnr72fd8v8b)
+- [threats](https://docs.google.com/document/d/1RG4_JeUWlx1AMHh6XAhEuVhyoaYqfiBSr789HTnSVEM/edit#heading=h.p2mmdnf7yli9) and
+- [patterns]()
 
 ## Get Involved 
 We currently are soliciting ideas around the design, implementation, and evangelism of the Security Toolbelt. Questions and feedback are welcome on our mailing list, slack channel, or as an issue filed here in our repo.
