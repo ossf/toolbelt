@@ -3,8 +3,6 @@
 
 We are a group of community members working to help define the vision and execution of the OpenSSF's Security Toolbelt initiative that is focused on helping all participants and consumers in the open source software ecosystem work more securely.
 
-We are part of the [BEST Working Group](https://github.com/ossf/wg-best-practices-os-developers).
-
 ### Motivation
 
 The open source software ecosystem has incredible diversity and variation of practice.  The Security Toolbelt seeks to provide consistent guidance, processes, and tools that enable open source developers to create amazing software, securely, and allow all partipants and consumers of that downstream supply chain to be able to understand the security qualities of how that software was written, assembled, and delivered to them, as well as concrete things downstream can do to implement this software securely.
@@ -60,6 +58,7 @@ The group is developing a list of
 - [use cases](https://docs.google.com/document/d/10oFJrMcIkKb0X7Bw1EwrN1w_wbyVUj0EAUswXMp73lQ/edit#heading=h.pmnr72fd8v8b)
 - [threats](https://docs.google.com/document/d/1RG4_JeUWlx1AMHh6XAhEuVhyoaYqfiBSr789HTnSVEM/edit#heading=h.p2mmdnf7yli9) and
 - [patterns]()
+- [Security Architectural Principles]()
 
 ## Prior Work
 
@@ -75,11 +74,11 @@ We currently are soliciting ideas around the design, implementation, and evangel
 ## Quick Start
 
 Areas that need contributions :  
-- Where to file issues: Issues can be filed here in our GitHub [repo](https://github.com/ossf/Diagrammers-Society/issues).
+- Where to file issues: Issues can be filed here in our GitHub [repo]([https://github.com/ossf/toolbelt/issues).
 
 ## Meeting times
 
-- Every Tuesday @ 12:00pm EST OpenSSF [Community Calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+- *TBD* OpenSSF [Community Calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 - Meeting [Minutes](https://docs.google.com/document/d/1H3Nk0PwmylLg5F7pqrIvyKzTyXAll0-f50B7DdqOh4A/edit#heading=h.9m0zi4b0wnne)
 
 ## Governance
